@@ -14,7 +14,7 @@ Prerequisites
 
 Installation
 ----------
-For each person to detect, add a new numbered folder in "Data". Each identity
+For each person to detect, add a new numbered folder in "data". Each identity
 and corresponding data number should be added to the identities.txt file in as
 shown in the files example, and each training image should be added to the
 corresponding data number in training.txt.
